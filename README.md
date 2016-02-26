@@ -1,4 +1,8 @@
-# dump1090-mutability Debian/Raspbian packages
+# dump1090-kentrosaur A fork with a larger planedb
+
+Merged the planes database with an updated basestation.sqb which had 100k+ more records
+
+dump1090-mutability Debian/Raspbian packages
 [![Build Status](https://travis-ci.org/mutability/dump1090.svg?branch=master)](https://travis-ci.org/mutability/dump1090)
 
 This is a fork of MalcolmRobb's version of dump1090
